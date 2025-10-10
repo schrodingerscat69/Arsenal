@@ -1,0 +1,10 @@
+#ignore all CSVs
+*.csv
+
+# Jupyter artefacts
+.ipynb_checkpoints/
+.jupyter/
+
+# Virtual env
+fplenv/
+

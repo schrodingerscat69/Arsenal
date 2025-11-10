@@ -6,5 +6,5 @@
 .jupyter/
 
 # Virtual env
-fplenv/
+.venv/
 
